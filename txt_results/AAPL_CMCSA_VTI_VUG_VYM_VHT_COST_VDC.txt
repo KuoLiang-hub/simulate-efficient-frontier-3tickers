@@ -1,28 +1,36 @@
 money amount calculation for demo use only, please don't simply invest on this results alone.
 Intend to invest $25000.00 total.
-	1 shares should long in ticker:AAPL
-	 invest in AAPL for $178.59.
+	0 shares should long in ticker:AAPL
+	 price @ $170.97 per share
+	 invest in AAPL for $170.32.
 	  represents 0.7% of total investment
-	17 shares should long in ticker:CMCSA
-	 invest in CMCSA for $849.59.
-	  represents 3.4% of total investment
-	13 shares should long in ticker:VTI
-	 invest in VTI for $3005.98.
-	  represents 12.0% of total investment
-	4 shares should long in ticker:VUG
-	 invest in VUG for $1334.97.
-	  represents 5.3% of total investment
-	26 shares should long in ticker:VYM
-	 invest in VYM for $2967.31.
-	  represents 11.9% of total investment
-	12 shares should long in ticker:VHT
-	 invest in VHT for $3060.30.
-	  represents 12.2% of total investment
-	13 shares should long in ticker:COST
-	 invest in COST for $6690.42.
-	  represents 26.8% of total investment
-	35 shares should long in ticker:VDC
-	 invest in VDC for $6912.84.
-	  represents 27.7% of total investment
-Expected annual portfolio return is 20.5%
-Expected annual portfolio volatility is 18.6%
+	20 shares should long in ticker:CMCSA
+	 price @ $47.99 per share
+	 invest in CMCSA for $962.97.
+	  represents 3.9% of total investment
+	4 shares should long in ticker:VTI
+	 price @ $224.46 per share
+	 invest in VTI for $942.98.
+	  represents 3.8% of total investment
+	5 shares should long in ticker:VUG
+	 price @ $282.95 per share
+	 invest in VUG for $1545.60.
+	  represents 6.2% of total investment
+	28 shares should long in ticker:VYM
+	 price @ $111.38 per share
+	 invest in VYM for $3137.47.
+	  represents 12.5% of total investment
+	23 shares should long in ticker:VHT
+	 price @ $242.66 per share
+	 invest in VHT for $5816.63.
+	  represents 23.3% of total investment
+	12 shares should long in ticker:COST
+	 price @ $503.12 per share
+	 invest in COST for $6344.34.
+	  represents 25.4% of total investment
+	31 shares should long in ticker:VDC
+	 price @ $193.59 per share
+	 invest in VDC for $6079.69.
+	  represents 24.3% of total investment
+Expected annual portfolio return is 19.6%
+Expected annual portfolio volatility is 18.5%
