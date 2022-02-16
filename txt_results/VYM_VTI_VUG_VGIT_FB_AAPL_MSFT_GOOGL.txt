@@ -1,0 +1,20 @@
+money amount calculation for demo use only, please don't simply invest on this results alone.
+Intend to invest $25000.00 total.
+	73 shares should long in ticker:VYM
+	 invest in VYM for $8169.66.
+	11 shares should long in ticker:VTI
+	 invest in VTI for $2500.25.
+	0 shares should long in ticker:VUG
+	 invest in VUG for $175.97.
+	136 shares should long in ticker:VGIT
+	 invest in VGIT for $8756.49.
+	3 shares should long in ticker:FB
+	 invest in FB for $797.61.
+	20 shares should long in ticker:AAPL
+	 invest in AAPL for $3498.36.
+	1 shares should long in ticker:MSFT
+	 invest in MSFT for $573.12.
+	0 shares should long in ticker:GOOGL
+	 invest in GOOGL for $528.53.
+Expected annual portfolio return is 16.3%
+Expected annual portfolio volatility is 14.4%
