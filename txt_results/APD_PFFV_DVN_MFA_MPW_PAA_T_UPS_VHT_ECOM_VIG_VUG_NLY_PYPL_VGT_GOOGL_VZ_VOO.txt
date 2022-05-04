@@ -1,0 +1,76 @@
+money amount calculation for demo use only, please don't simply invest on this results alone.
+Intend to invest $25000.00 total.
+	6 shares should long in ticker:APD
+	 price @ $238.86 per share
+	 invest in APD for $1570.43.
+	  represents 6.3% of total investment
+	146 shares should long in ticker:PFFV
+	 price @ $25.18 per share
+	 invest in PFFV for $3700.91.
+	  represents 14.8% of total investment
+	9 shares should long in ticker:DVN
+	 price @ $54.57 per share
+	 invest in DVN for $503.17.
+	  represents 2.0% of total investment
+	28 shares should long in ticker:MFA
+	 price @ $13.42 per share
+	 invest in MFA for $388.26.
+	  represents 1.6% of total investment
+	46 shares should long in ticker:MPW
+	 price @ $18.63 per share
+	 invest in MPW for $858.90.
+	  represents 3.4% of total investment
+	20 shares should long in ticker:PAA
+	 price @ $10.42 per share
+	 invest in PAA for $210.74.
+	  represents 0.8% of total investment
+	90 shares should long in ticker:T
+	 price @ $19.19 per share
+	 invest in T for $1730.46.
+	  represents 6.9% of total investment
+	5 shares should long in ticker:UPS
+	 price @ $184.96 per share
+	 invest in UPS for $924.93.
+	  represents 3.7% of total investment
+	9 shares should long in ticker:VHT
+	 price @ $244.86 per share
+	 invest in VHT for $2205.23.
+	  represents 8.8% of total investment
+	61 shares should long in ticker:ECOM
+	 price @ $14.44 per share
+	 invest in ECOM for $888.95.
+	  represents 3.6% of total investment
+	20 shares should long in ticker:VIG
+	 price @ $155.86 per share
+	 invest in VIG for $3259.32.
+	  represents 13.0% of total investment
+	3 shares should long in ticker:VUG
+	 price @ $258.65 per share
+	 invest in VUG for $1027.42.
+	  represents 4.1% of total investment
+	210 shares should long in ticker:NLY
+	 price @ $6.35 per share
+	 invest in NLY for $1333.80.
+	  represents 5.3% of total investment
+	11 shares should long in ticker:PYPL
+	 price @ $86.87 per share
+	 invest in PYPL for $1003.06.
+	  represents 4.0% of total investment
+	0 shares should long in ticker:VGT
+	 price @ $372.15 per share
+	 invest in VGT for $291.95.
+	  represents 1.2% of total investment
+	0 shares should long in ticker:GOOGL
+	 price @ $2425.56 per share
+	 invest in GOOGL for $408.25.
+	  represents 1.6% of total investment
+	53 shares should long in ticker:VZ
+	 price @ $50.01 per share
+	 invest in VZ for $2692.21.
+	  represents 10.8% of total investment
+	5 shares should long in ticker:VOO
+	 price @ $387.16 per share
+	 invest in VOO for $2002.00.
+	  represents 8.0% of total investment
+Expected annual portfolio return is 5.7%
+Expected annual portfolio volatility is 20.8%
