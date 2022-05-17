@@ -1,0 +1,16 @@
+money amount calculation for demo use only, please don't simply invest on this results alone.
+Intend to invest $50000.00 total.
+	56 shares should long in ticker:AAPL
+	 price @ $148.12 per share
+	 invest in AAPL for $8391.93.
+	  represents 16.8% of total investment
+	6 shares should long in ticker:AMZN
+	 price @ $2257.11 per share
+	 invest in AMZN for $14894.16.
+	  represents 29.8% of total investment
+	11 shares should long in ticker:GOOGL
+	 price @ $2318.51 per share
+	 invest in GOOGL for $26713.90.
+	  represents 53.4% of total investment
+Expected annual portfolio return is 18.8%
+Expected annual portfolio volatility is 30.8%
