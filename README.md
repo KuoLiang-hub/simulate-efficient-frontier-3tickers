@@ -1,6 +1,7 @@
 # simulate-efficient-frontier-3tickers
 
 generate a simulation with 3 tickers (or more) to get the efficient frontier in jupter notebook
+Also single stock analysis and performance against market is avaliable in corresponding directories.
 
 requirement to run the code in jupyter notebook:
 for ubuntu users,
@@ -28,5 +29,3 @@ for ubuntu users,
         "pip3 install pandas"
         "pip3 install pandas-datareader"
         "pip3 install matplotlib"
-
-Also single stock analysis and performance against market is avaliable in corresponding directories.
