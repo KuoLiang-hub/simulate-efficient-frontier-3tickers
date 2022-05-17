@@ -3,10 +3,11 @@
 generate a simulation with 3 tickers (or more) to get the efficient frontier in jupter notebook
 
 requirement to run the code in jupyter notebook:
-download and install python3 & anaconda
+for ubuntu users,
 
     for windows:
-        open terminal, and type:
+        download and install python3 & anaconda from official websites
+        then open terminal, and type:
         "pip install numpy"
         "pip install pandas"
         "pip install pandas-datareader"
@@ -22,10 +23,10 @@ download and install python3 & anaconda
     for mac os:
         open terminal and type:
         "brew install python3" then
-        "pip install numpy"
-        "pip install pandas"
-        "pip install pandas-datareader"
-        "pip install matplotlib"
-
+        "pip3 install jupyter"
+        "pip3 install numpy"
+        "pip3 install pandas"
+        "pip3 install pandas-datareader"
+        "pip3 install matplotlib"
 
 Also single stock analysis and performance against market is avaliable in corresponding directories.
